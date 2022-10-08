@@ -47,4 +47,4 @@ export const testProviders: ProviderList = {
 
 # Test on your phone
 
-If you want to test the add-on on wako on your phone follow the instructions: https://github.com/wako-app/addon-starter-kit#test-your-add-on. You'll first have to change the URLs in the manifest are they're absolute URLs pointing here, so edit the [manifest](https://github.com/wako-unofficial-addons/helios/blob/master/projects/plugin/src/manifest.json) and replace `https://raw.githubusercontent.com/wako-unofficial-addons/helios/master/dist` by blank
+If you want to test the add-on on wako on your phone follow the instructions: https://github.com/wako-app/addon-starter-kit#test-your-add-on. You'll first have to change the URLs in the manifest are they're absolute URLs pointing here, so edit the [manifest](https://github.com/wako-unofficial-addons/helios/blob/master/projects/plugin/src/manifest.json) and replace `https://raw.githubusercontent.com/loopiezlol/helios/master/dist` by blank
